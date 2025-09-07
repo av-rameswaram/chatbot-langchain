@@ -1,0 +1,3 @@
+Run App = streamlit run app.py
+Run Environment = myenv\Scripts\activate
+Deactivate Environment = deactivate
